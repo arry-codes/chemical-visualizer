@@ -20,6 +20,7 @@ class FileUploadView(APIView):
              return Response({'error': 'File must be a CSV'}, status=status.HTTP_400_BAD_REQUEST)
 
         try:
+            file.seek(0)
             df = pd.read_csv(file)
             required_columns = ['Equipment Name', 'Type', 'Flowrate', 'Pressure', 'Temperature']
             if not all(col in df.columns for col in required_columns):
@@ -41,6 +42,7 @@ class FileUploadView(APIView):
             
             return Response({'message': 'File uploaded successfully', 'upload_id': history.id}, status=status.HTTP_201_CREATED)
         except Exception as e:
+            print(f"Upload Error: {str(e)}")  # Log to server console
             return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 class HistoryView(APIView):
