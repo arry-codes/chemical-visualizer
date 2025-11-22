@@ -50,9 +50,9 @@ python main.py
 (React based Frontend)
 </p>
 
-<p>
+<p align="center">
 <img width="4409" height="1732" alt="fosse_desk" src="https://github.com/user-attachments/assets/b9885407-61ec-47c2-a17e-2d94f87b7f2f" />
-<div align="center"> (PyQt5 based Desktop App) </div>
+(PyQt5 based Desktop App)
 </p>
 
 
