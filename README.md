@@ -13,8 +13,7 @@ This is a project to visualize parameters from chemical equipment data. It has a
 You need Python installed.
 ```bash
 cd backend
-pip install -r requirements.txt  # or install django djangorestframework pandas django-cors-headers reportlab
-python manage.py migrate
+pip install -r requirements.txt
 python manage.py runserver
 ```
 The server runs at `http://localhost:8000`.
@@ -31,7 +30,6 @@ Open `http://localhost:5173` in your browser.
 ### 3. Desktop App
 ```bash
 cd frontend-desktop
-pip install PyQt5 requests matplotlib
 python main.py
 ```
 
