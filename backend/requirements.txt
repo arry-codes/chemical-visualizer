@@ -1,0 +1,7 @@
+django
+djangorestframework
+pandas
+django-cors-headers
+reportlab
+gunicorn
+whitenoise
