@@ -45,9 +45,9 @@ python main.py
 - Login system (Basic Auth)
 
 ## UI/UX
-<p>
+<p align="center">
 <img width="1470" height="956" alt="Screenshot 2025-11-22 at 11 12 36 PM" src="https://github.com/user-attachments/assets/b9767f46-8f26-4aff-aed4-3a04fbd30310" />
-<div align="center"> (React based Frontend) </div>
+(React based Frontend)
 </p>
 
 <p>
