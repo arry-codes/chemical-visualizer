@@ -19,7 +19,6 @@ cd backend
 pip install -r requirements.txt
 python manage.py runserver
 ```
-The server runs at `http://localhost:8000`.
 
 ### 2. Web App
 
@@ -28,7 +27,6 @@ cd frontend-web
 npm install
 npm run dev
 ```
-Open `http://localhost:5173` in your browser.
 
 ### 3. Desktop App
 
