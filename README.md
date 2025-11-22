@@ -8,7 +8,7 @@ This is a project to visualize parameters from chemical equipment data. It has a
 - `frontend-desktop/`: Desktop application (Python)
 
 ## Demo Video
-https://drive.google.com/file/d/1_RXmh9drfqIRbcniLiV_flBEGMjkiBIR/view?usp=sharing
+Google Drive : <a href="https://drive.google.com/file/d/1_RXmh9drfqIRbcniLiV_flBEGMjkiBIR/view?usp=sharing">Link</a>
 
 ## How to Run
 
