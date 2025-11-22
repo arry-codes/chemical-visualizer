@@ -45,15 +45,15 @@ python main.py
 - Login system (Basic Auth)
 
 ## UI/UX
-
+<p>
 <img width="1470" height="956" alt="Screenshot 2025-11-22 at 11 12 36 PM" src="https://github.com/user-attachments/assets/b9767f46-8f26-4aff-aed4-3a04fbd30310" />
 <div align="center"> (React based Frontend) </div>
-
-<p float="left">
-<img width="799" height="628" alt="Screenshot 2025-11-22 at 11 25 47 PM" src="https://github.com/user-attachments/assets/ec6d3bc2-9799-42da-8f5a-ba49833d6a16" />
-<img width="799" height="628" alt="Screenshot 2025-11-22 at 11 25 53 PM" src="https://github.com/user-attachments/assets/ee0a4f61-c06b-4eb8-9eda-63ebed4336b6" />
 </p>
+
+<p>
+<img width="4409" height="1732" alt="fosse_desk" src="https://github.com/user-attachments/assets/b9885407-61ec-47c2-a17e-2d94f87b7f2f" />
 <div align="center"> (PyQt5 based Desktop App) </div>
+</p>
 
 
 
